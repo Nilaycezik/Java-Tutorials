@@ -14,21 +14,21 @@ A brief description of what this project does and who it's for
 [MIT](https://choosealicense.com/licenses/mit/)
 
 ## 🛠 Skills
-Javascript,
-Java,
-Database,
-Database management,
-Python programming language,
-Web Scrapping & Selenium,
-Aws Cloud Console,
-WEB language(HTML),
-Java Spring/SpringBoot,
-Keras & Tensorflow Libraries,
-Data Mining,
-Data Preprocessing,
-Linux OS,
-Artificial neural network learning,
-Maven.
+Javascript
+Java
+Database
+Database management
+Python programming language
+Web Scrapping & Selenium
+Aws Cloud Console
+WEB language(HTML)
+Java Spring/SpringBoot
+Keras & Tensorflow Libraries
+Data Mining
+Data Preprocessing
+Linux OS
+Artificial neural network learning
+Maven
 
 
 ## 🔗 Links
